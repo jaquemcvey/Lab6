@@ -1,7 +1,8 @@
 ---
-title: "Untitled"
-format: html
-editor: visual
+title: "lab6"
+format: 
+  html:
+    self-contained: true
 ---
 ```{r}
 library(tidyverse)
