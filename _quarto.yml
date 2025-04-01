@@ -6,6 +6,10 @@ project:
   
 website:
   title: "Lab6"
+  navbar:
+    left:
+      - href: lab6.qmd
+      - text: Lab 6
   
   
 format:
