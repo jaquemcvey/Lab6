@@ -1,3 +1,13 @@
 project:
   type: website
   output-dir: docs 
+  
+  
+  
+website:
+  title: "Lab6"
+  
+  
+format:
+  html:
+    theme: cosmo
